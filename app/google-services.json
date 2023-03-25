@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033782334925",
+    "project_id": "bauet-front-page-generator",
+    "storage_bucket": "bauet-front-page-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033782334925:android:71aba45f3c77ee6735e084",
+        "android_client_info": {
+          "package_name": "com.arahad.fpgenarator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033782334925-76pb9kre2afa3ro0mahgbodvhjf0414r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arahad.fpgenarator",
+            "certificate_hash": "12393542f38be57d69b307895d7ee6c2a9818fb1"
+          }
+        },
+        {
+          "client_id": "1033782334925-65fg2g6hk5r6acke0l8ivh5jeami2pn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFLvrGpglrfJO1vRtr01FEj0vbuV7mFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033782334925-65fg2g6hk5r6acke0l8ivh5jeami2pn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
